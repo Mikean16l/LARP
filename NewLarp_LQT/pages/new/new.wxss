@@ -54,7 +54,7 @@ page {
 
 /* Game Intro 可尝试使用星际字体 */
 .card_wrap .card_item .card_info .card_info_mes_item {
-  margin-left: 28px;
+  margin-left: 15px;
   display: block;
   font-size: 12px;
   color: white;

@@ -10,8 +10,9 @@
 </view>
 
 <view class="MainBtn">
-  
+  <navigator url="../join/join">
     <button class="JoinGameBtn" style="color:orange;background-color:white;" hover-class="JoinHover">加入游戏</button>
+  </navigator>
 </view>
 
 <view class="info">
